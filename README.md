@@ -1,7 +1,11 @@
 # 30-days-of-Python
 
-This repository contains ,my 30 days journey into python
+This repository contains my 30-day journey into Python
+
+#Day 1
+On my first day, I learned how to do basic maths using operators, and I was also introduced to the different data types.
+Also, I was able to check the data type of the variables
 
 #Day2
-After day 2 i have learn't a lot about variables and also learn't a way to avoid repetition in my code by using
-functions. I am looking forward to learn more about them.
+After day 2, I have learned a lot about variables and also learned a way to avoid repetition in my code by using
+functions. I am looking forward to learning more about them.
