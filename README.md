@@ -9,3 +9,6 @@ Also, I was able to check the data type of the variables
 #Day2
 After day 2, I have learned a lot about variables and also learned a way to avoid repetition in my code by using
 functions. I am looking forward to learning more about them.
+
+#Day3
+After today, I have learned a lot about operators and the different types. Also, I am able set conditions and make sure it is met.
