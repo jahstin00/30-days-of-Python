@@ -11,7 +11,7 @@ print('The area of your triangle is ', area_t)
 #Finding perimeter of triangle
 xs = float(input('Enter first side here: '))
 ys = float(input('Enter second side here: '))
-ZeroDivisionError = float(input('Enter third side here: '))
+zs = float(input('Enter third side here: '))
 perimeter_t = xs + ys + zs
 print('The perimeter of your triangle is ', perimeter_t)
 
@@ -49,8 +49,8 @@ print(f"Y-intercept is {y_int}")
 print(f"X-intercept is {x_int}")
 
 #Finding slope and Euclidean distance between points
-y1, y2 = float(input('y1: '), input('y2: '))
-x1, x2 = float(input('x1: '), input('x2: '))
+y1, y2 = float(input('y1: ')), float(input('y2: '))
+x1, x2 = float(input('x1: ')), float(input('x2: '))
 m_slope = (y2-y1)/(x2-x1)
 Distance = math.hypot(x2-x1, y2-y1)
 print(f"The slope between the two points is {m_slope}")
@@ -114,9 +114,10 @@ var_2 = 10
 print('Is type of 10(with quotes on it)  equal to type of 10(without quotes): ', type(var_1) == type(var_2))
 
 #Checking if int('9.8') is equal to 10
-var_3 = int('9.8')
-var_4 = 10
-print(f"Is int('9.8') equal to 10: {var_3 == var_4}")
+var_3 = '9.8'
+var_4 = int(float(var_3))
+var_5 = 10
+print(f"Is int('9.8') equal to 10: {var_4 == var_5}")
 
 #Calculating pay of a person
 hours = float(input('Enter hours per week here: '))
