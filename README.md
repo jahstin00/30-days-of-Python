@@ -12,3 +12,6 @@ functions. I am looking forward to learning more about them.
 
 #Day3
 After today, I have learned a lot about operators and the different types. Also, I am able set conditions and make sure it is met.
+
+#Day4
+On this day, I learned about strings and different ways to manipulate them.
